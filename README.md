@@ -1,5 +1,10 @@
 # How To Remote
 
+## Home Office
+* Designate a room as office. This helps keeping home and work seperated.
+* Keep a routine. Start at the same time, have a lunch break and stop at the end of the day. 
+* Let your colleagues know when you are online, and make sure to be avaiable via a chat program or email.
+
 ## Conference Calling
 * Assume every meeting is a remote meeting.
 * Send meeting details well ahead of time.
