@@ -20,7 +20,7 @@ A collection of practical tips for working from home. All contributions are welc
     - When hosting a group; teleconference microphones like Jabra Speak.
     - For callers sitting alone; use a proper headphone with mic
     - Mute when not speaking
-* Use a tool such as zoom.us, whereby, jit.si or hangouts
+* Use a tool such as zoom.us, whereby, jit.si, Discord or hangouts
     - That has a web version that requires no installation.
     - If possible has dial-in.
     - Recording option.
