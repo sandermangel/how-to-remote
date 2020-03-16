@@ -1,4 +1,5 @@
 # How To Remote
+A collection of practical tips for working from home. All contributions are welcome, learn more on how to do so [here](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request).
 
 ## Home Office
 * Designate a room as office. This helps keeping home and work seperated.
