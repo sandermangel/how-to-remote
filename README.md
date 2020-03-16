@@ -6,7 +6,7 @@ A collection of practical tips for working from home. All contributions are welc
 
 ## Home Office
 * Designate a room as office. This helps keeping home and work seperated.
-* Let your colleagues know when you are online, and make sure to be avaiable via a chat program or email.
+* Let your colleagues know when you are online, and make sure to be available via a chat program or email.
 * Keep a routine. Start at the same time, have a lunch break and stop at the end of the day. 
 * Maintain regular hours.
 * Don't forget to log your time if you have to.
