@@ -39,7 +39,7 @@ A collection of practical tips for working from home. All contributions are welc
 * As mentioned before; stick to a routine. This is one of the most important advices.
 * When possible, go for a daily walk or jog to get some fresh air
 * Take breaks away from the work station so once in a while
-* With a full kitchen and pantry just steps away its tempting to snack a lot, go for healthy opions 
+* With a full kitchen and pantry just steps away its tempting to snack a lot, go for healthy options 
 * Socialise with colleagues. Try to set up regular catchups to talk off-topic with your colleagues or attend online meetups.
 * Take sick days when you're ill.
 
