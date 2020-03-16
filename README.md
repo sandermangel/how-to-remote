@@ -29,3 +29,10 @@ A collection of practical tips for working from home. All contributions are welc
     - Slow connection? Dial in.
     - Disable video when possible, have one person share their screen.
 * Always send a summary with actions to take via mail as a followup
+
+## (Mental) Health
+* As mentioned before; stick to a routine. This is one of the most important advices.
+* When possible, go for a daily walk or jog to get some fresh air
+* Take breaks away from the work station so once in a while
+* With a full kitchen and pantry just steps away its tempting to snack a lot, go for healthy opions 
+
