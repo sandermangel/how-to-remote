@@ -4,13 +4,9 @@ A collection of practical tips for working from home. All contributions are welc
 ## Home Office
 * Designate a room as office. This helps keeping home and work seperated.
 * Let your colleagues know when you are online, and make sure to be avaiable via a chat program or email.
-* Don't forget to log your time if you have to.
-
-## Work-life balance
 * Keep a routine. Start at the same time, have a lunch break and stop at the end of the day. 
 * Maintain regular hours.
-* Socialise with colleagues. Try to set up regular catchups to talk off-topic with your colleagues or attend online meetups.
-* Take sick days when you're ill.
+* Don't forget to log your time if you have to.
 
 ## Conference Calling
 * Assume every meeting is a remote meeting.
@@ -36,4 +32,13 @@ A collection of practical tips for working from home. All contributions are welc
     - Disable video when possible, have one person share their screen.
 * Always send a summary with actions to take via mail as a followup
 
+## (Mental) Health
+* As mentioned before; stick to a routine. This is one of the most important advices.
+* When possible, go for a daily walk or jog to get some fresh air
+* Take breaks away from the work station so once in a while
+* With a full kitchen and pantry just steps away its tempting to snack a lot, go for healthy opions 
+* Socialise with colleagues. Try to set up regular catchups to talk off-topic with your colleagues or attend online meetups.
+* Take sick days when you're ill.
+
+ 
 
