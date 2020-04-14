@@ -42,6 +42,10 @@ A collection of practical tips for working from home. All contributions are welc
 * With a full kitchen and pantry just steps away its tempting to snack a lot, go for healthy options 
 * Socialise with colleagues. Try to set up regular catchups to talk off-topic with your colleagues or attend online meetups.
 * Take sick days when you're ill.
+* Before starting to work, follow all the preparations as if you were going to the office (cleaning, breakfast, clothes, make-up, ...).
+* Ventilate the rooms before starting work, during the lunch break and at the end of the working day.
+* If you want to take advantage of the remote for small home keeping activities (washing machine, cleaning, dustbins, other..) take advantage of the mid-morning / afternoon breaks... avoid interrupting work activities. 
+* Give value to extra work activities by reserving the right space/time for them and abandoning laziness :)
 
  
 
